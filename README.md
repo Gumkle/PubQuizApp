@@ -1,5 +1,8 @@
 # PubQuizApp
 
+## What does it do?
+PubQuiz tournament system, keeps and displays classification, gives one user possibility to keep track of points in every team.
+
 ## How to install
 1. Download repo, 
 2. Initialize virtual environment in it: `python -m venv env`,
